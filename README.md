@@ -17,7 +17,7 @@ Code Script: `icart_pkg / src / iros_icart.py`
 5. For debugging purposes, the pushed image runs after running start.sh file using the docker-compose.yaml settings as shown in the picture 'Docker-Compose-Settings.png'. Please contact us if any difficulty. 
 
 ## Team Members :
-Bhooshan Deshpande (bhooshd@g.clsemson.edu), Adhiti Raman, Huzefa Kagalwala, Siddhant Srivastava, Anshuman Sharma, Naga Venkata Sai Teja Allam, Shaurya Panthri, Prateek Sharma, Prajval Vaskar, Utkarsha Chaudhari
+Prateek Sharma (prateek@clemson.edu), Bhooshan Deshpande, Adhiti Raman, Huzefa Kagalwala, Siddhant Srivastava, Anshuman Sharma, Naga Venkata Sai Teja Allam, Shaurya Panthri, Prajval Vaskar, Utkarsha Chaudhari
 
 Faculty Advisor :
 Dr. Venkat N. Krovi
